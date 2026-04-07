@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Generated data (large)
+embeddings.npy
+fringe_shows_raw.json
